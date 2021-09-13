@@ -11,7 +11,6 @@ Database_Based_MultiTenancy | Annotation | basePackages | Activates **Database**
 Schema_Based_MultiTenancy | Annotation | basePackages | Activates **Schema** per Tenant feature 
 TenantHolder | Annotation | - | Defines Entity to use as Database Configuration holder
 DataSourceComponent | Class | - | Extend to Entity annotated with TenantHolder, Holds specific properties of Database
-DataSourceComponent | Class | - | Extend to Entity annotated with TenantHolder, Holds specific properties of Database
 
 
 ## Usage
